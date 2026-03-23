@@ -1,3 +1,3 @@
-# clone-tabnews
+# Colaborem
 
-Implementação do https://www.tabnews.com.br para o https://curso.dev
+## Implementação do espaço colaborativo para alunos do IFSP - Campus Bragança Paulista, como prática do https://curso.dev

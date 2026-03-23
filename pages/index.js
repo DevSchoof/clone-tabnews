@@ -11,9 +11,11 @@ function Home() {
         className={styles.image}
       />
       <h1>Colaborem</h1>
-      <h2>Um espaço onde todos podem aprender e ensinar.</h2>
-      <p>Está com dificuldades? Venha!</p>
-      <p>Quer ajudar? Venha!</p>
+      <h2>Um espaço colaborativo  para alunos do IFSP Bragança Paulista.</h2>
+      <p>Precisa  combinar carona, ajuda com alguma atividade, procura 
+        aulas aprticulares, grupos de estudo, quer divulgar uma vaga de emprego, 
+        ou só bater papo? Venha!</p>
+      <p>Quer ajudar? Venha também!</p>
     </div>
   );
 }
